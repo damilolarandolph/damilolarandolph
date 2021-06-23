@@ -4,14 +4,16 @@
 
 <br />
 
-# <p style="text-align: center">Hi There 👋🏾 </p>
-<h3 style="text-align: center">Just your average Nigerian 🇳🇬 Developer.</h3>
+<h1 align="center" >Hi There 👋🏾 </h1>
 
-----
+<h3 align="center">Just your average Nigerian 🇳🇬 Developer.</h3>
+
+---
 
 
 
-<div style="text-align:center">
+
+<div align='center' >
 <a href="https://damilolarandolph.com"><img alt="Twitter" height="40px" width="40px" src="https://raw.githubusercontent.com/damilolarandolph/damilolarandolph/main/images/globe.svg"/>
 </a>
 <a href="https://twitter.com/dami_randolph"><img height="40px" width="40px"  src="https://raw.githubusercontent.com/damilolarandolph/damilolarandolph/main/images/twitter.svg"/>
@@ -20,7 +22,7 @@
 </a>
 </div>
 
-<div style="text-align: center; margin-top: 40px">
+<div align='center' style="margin-top: 40px">
 <img src="https://gpvc.arturio.dev/damilolarandolph" />
 </div>
 
@@ -34,10 +36,10 @@
 <h1 style="text-align:center"></h1>
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap">
-<div style="margin: 0 auto">
+<div align='center' style="margin: 0 auto">
 <img  src="https://github-readme-stats.vercel.app/api?username=damilolarandolph">
 </div>
-<div style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=damilolarandolph"> </div>
+<div align='center' style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=damilolarandolph"> </div>
 </div>
 
 <br />
@@ -66,6 +68,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 </div>
 
-<div style="text-align: center; margin-top: 40px">
+<div align='center' style="text-align: center; margin-top: 40px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damilolarandolph&layout=compact">
 </div>
