@@ -33,9 +33,11 @@
 
 <h1 style="text-align:center"></h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between">
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap">
+<div style="margin: 0 auto">
 <img  src="https://github-readme-stats.vercel.app/api?username=damilolarandolph">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=damilolarandolph">
+</div>
+<div style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=damilolarandolph"> </div>
 </div>
 
 <br />
