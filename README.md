@@ -7,8 +7,7 @@
 <h1 align="center" >Hi There 👋🏾 </h1>
 
 <h3 align="center">Just your average Nigerian 🇳🇬 Developer.</h3>
-
----
+<br />
 
 
 
@@ -22,7 +21,8 @@
 </a>
 </div>
 
-<div align='center' style="margin-top: 40px">
+<br />
+<div align='center'>
 <img src="https://gpvc.arturio.dev/damilolarandolph" />
 </div>
 
@@ -44,8 +44,7 @@
 
 <br />
 
-## <p style="text-align: center">Tech Stack</p>
----
+## <div align='center'>Tech Stack</div>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
